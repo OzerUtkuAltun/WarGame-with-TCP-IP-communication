@@ -1,0 +1,10 @@
+C:\Masaüstü\ChatProgram\WarGame\bin\Debug\WarGame.exe.config
+C:\Masaüstü\ChatProgram\WarGame\bin\Debug\WarGame.exe
+C:\Masaüstü\ChatProgram\WarGame\bin\Debug\WarGame.pdb
+C:\Masaüstü\ChatProgram\WarGame\obj\Debug\WarGame.csprojAssemblyReference.cache
+C:\Masaüstü\ChatProgram\WarGame\obj\Debug\WarGame.Form1.resources
+C:\Masaüstü\ChatProgram\WarGame\obj\Debug\WarGame.Properties.Resources.resources
+C:\Masaüstü\ChatProgram\WarGame\obj\Debug\WarGame.csproj.GenerateResource.cache
+C:\Masaüstü\ChatProgram\WarGame\obj\Debug\WarGame.csproj.CoreCompileInputs.cache
+C:\Masaüstü\ChatProgram\WarGame\obj\Debug\WarGame.exe
+C:\Masaüstü\ChatProgram\WarGame\obj\Debug\WarGame.pdb
